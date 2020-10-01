@@ -1,5 +1,5 @@
 CSS-Javascript
 ==============
 
-Basic Practice of CSS and Javascript coding.
+Basic Practice of CSS and Javascript language.
 
